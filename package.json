@@ -1,0 +1,20 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "ansi": "^0.3.1",
+    "beepbeep": "^1.2.2"
+  },
+  "devDependencies": {
+    "executive": "^1.6.3",
+    "webpack": "^4.28.4"
+  }
+}
